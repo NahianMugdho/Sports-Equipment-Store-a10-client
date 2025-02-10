@@ -19,7 +19,7 @@ This project is built using **React** and **Vite** for the frontend, and it inte
 ## Live Demo
 
 You can view the live version of the site here:  
-[EquiSports Live Demo](https://assignment-10-567a8.web.app/)
+[EquiSports Live Demo](https://final-shot-8842c.web.app/)
 
 ## Backend API
 
